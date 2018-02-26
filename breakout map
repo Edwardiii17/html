@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="color.css">
+  <title>Call of Duty: WWII | Maps</title>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div id="title">
+        <h1>Call of Duty <span id="title">Index</span></h1>
+      </div>
+      <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="rank.html">Ranks and Unlocks</a></li>
+            <li><a href="weapons.html">Weapons</a></li>
+            <li><a href="maps.html" class="hcurrent">Maps</a></li>
+            <li><a href="modes.html">Modes</a></li>
+            <li><a href="comp.html">Competitive</a></li>
+          </ul>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="sidebar">
+<ul>
+  <li><a href="maps.html">Aachen</a></li>
+  <li><a href="anthropoid.html">Anthropoid</a></li>
+  <li><a href="ardennes.html">Ardennes Forest</a></li>
+  <li><a href="breakout.html" class="scurrent">Breakout</a></li>
+  <li><a href="carentan.html">Carentan</a></li>
+  <li><a href="flak.html">Flak Tower</a></li>
+  <li><a href="gibraltar.html">Gibraltar</a></li>
+  <li><a href="griffin.html">Griffin</a></li>
+  <li><a href="gustav.html">Gustav Cannon</a></li>
+  <li><a href="intercept.html">Intercept</a></li>
+  <li><a href="london.html">London Docks</a></li>
+  <li><a href="neptune.html">Neptune</a></li>
+  <li><a href="occupatiion.html">Occupation</a></li>
+  <li><a href="pointe.html">Pointe du Hoc</a></li>
+  <li><a href="sainte.html">Sainte Marie du Mont</a></li>
+  <li><a href="uss.html">USS Texas</a></li>
+  <li><a href="valkyrie.html">Valkyrie</a></li>
+  <li><a href="winter.html">Winter Carentan</a></li>
+</ul>
+    </div>
+
+    <div class="wrapper">
+      <h1>Breakout</h1>
+        <img src="img/breakout.jpg" class="img" height="720" width="1280">
+        <p>Exclusive to War Mode! Breakout is located 6 miles west of Saint-lo, Normandy, France!</p>
+    </div>
+
+    <aside class="aside">
+
+    </aside>
+  </main>
+  <footer class="sidebarf">
+    <hr>
+  <p>Call of Duty Index, Copyright &copy; 2018 </p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="color.css">
+  <title>WWII Index | Home</title>
+  <style>
+  footer{
+    margin-top: 270px
+  }
+
+  footer p {
+    margin-left: 30px;
+  }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div id="title">
+        <h1>Call of Duty <span id="title">Index</span></h1>
+      </div>
+      <nav>
+          <ul>
+            <li><a href="index.html" class="hcurrent">Home</a></li>
+            <li><a href="rank.html">Ranks and Unlocks</a></li>
+            <li><a href="weapons.html">Weapons</a></li>
+            <li><a href="maps.html">Maps</a></li>
+            <li><a href="modes.html">Modes</a></li>
+            <li><a href="comp.html">Competitive</a></li>
+          </ul>
+      </nav>
+    </div>
+  </header>
+  <main>
+<section id="showcase">
+</section>
+
+<section id="newsletter">
+  <div class="container">
+    <h1>Subscribe for a notification on our latest updates!</h1>
+    <form method="post">
+      <label>*E-mail: <input type="email" id="email" name="email" required="required" placeholder="Enter Email..."</label>
+      <button type="submit" class="button1">Subscribe</button>
+    </form>
+  </div>
+</section>
+<div class="info">
+  <h1>Goals</h1>
+  <p>My goal for this website is to make sure the Call of Duty community knows everything they need to know ranging from rank unlocks to new dlc maps! Make sure you follow the twitter page to see our newly updated feautures as soon as they come out!</p>
+</div>
+<div class="twitter">
+  <h1>Follow the official twitter of Call of Duty Index!!</h1>
+  <p><a href="https://www.twitter.com/CodIndex" id="atwitter" target="_blank">Cod Index Twitter</a></p>
+</div>
+</main>
+<footer id="indexf">
+  <hr>
+<p>Call of Duty Index, Copyright &copy; 2018 </p>
+</footer>
+</body>
+</html>

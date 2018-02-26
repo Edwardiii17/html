@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="color.css">
+  <title>WWII Index | Home</title>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div id="title">
+        <h1>Call of Duty <span id="title">Index</span></h1>
+      </div>
+      <nav>
+          <ul>
+            <li class="current"><a href="index.html">Home</a></li>
+            <li><a href="rank.html" class="hcurrent">Ranks and Unlocks</a></li>
+            <li><a href="weapons.html">Weapons</a></li>
+            <li><a href="maps.html">Maps</a></li>
+            <li><a href="modes.html">Modes</a></li>
+            <li><a href="comp.html">Competitive</a></li>
+          </ul>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div id="table">
+      <table border="1">
+        <caption id="caption">Ranks &amp; Unlocks</caption>
+      <tr>
+        <td>Rank 1 (Private)</td>
+        <td><b>Unlocks:</b><br>Pre-Set Classes</td>
+        <td>Rank 14 (Staff Sergeant I)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 27 (Sergeant Major II)</td>
+        <td><b>Unlocks:</b><br>First Four<br>Specialist<br>Challenges</td>
+        <td>Rank 40 (Captain III)</td>
+        <td><b>Unlocks:</b><br>Bandolier<br>Coaxial Machine Gun</td>
+        <td>Rank 53 (Brigadier General)</td>
+        <td><b>Unlocks:</b><br>PPSh-41</td>
+      </tr>
+      <tr>
+        <td>Rank 2 (Private I)</td>
+        <td><b>Unlocks:</b><br>M1897 Trenchgun<br>Walther P38<br>Sticky Grenade<br>Thompson<br>M9A1 Bazooka<br>Gas Mask</td>
+        <td>Rank 15 (Staff Sergeant II)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 28 (Sergeant Major III)</td>
+        <td><b>Unlocks:</b><br>Sleight of Hand<br>Leadfoot</td>
+        <td>Rank 41 (Major)</td>
+        <td><b>Unlocks:</b><br>Kar98k</td>
+        <td>Rank 54 (Brigadier General I)</td>
+        <td><b>Unlocks:</b></td>
+      </tr>
+      <tr>
+        <td>Rank 3 (Private II)</td>
+        <td><b>Unlocks:</b><br>Springield<br>Cold M1911</td>
+        <td>Rank 16 (Staff Sergeant III)</td>
+        <td><b>Unlocks:</b><br>Bomb Squad</td>
+        <td>Rank 29 (2nd Lieutenant)</td>
+        <td><b>Unlocks:</b><br>Double Barreled Shotgun</td>
+        <td>Rank 42 (Major I)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 55 (Brigadier General II)</td>
+        <td><b>Unlocks:</b></td>
+      </tr>
+      <tr>
+        <td>Rank 4 (Private First Class)</td>
+        <td><b>Unlocks:</b><br>Type 99<br>BAR<br>Arisaka<br>Juggernaut<br>Create-A-Class</td>
+        <td>Rank 17 (Gunnery Sergeant)</td>
+        <td><b>Unlocks:</b><br>M1 Garand</td>
+        <td>Rank 30 (2nd Lieutenant I)</td>
+        <td><b>Unlocks:</b><br>Second Set of Killer Challenges</td>
+        <td>Rank 43 (Major II)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 56 (Brigadier General III)</td>
+        <td><b>Unlocks:</b><br>Overkill</td>
+      </tr>
+      <tr>
+        <td>Rank 5 (Private First Class I)</td>
+        <td><b>Unlocks:</b><br>Challenges</td>
+        <td>Rank 18 (Gunnery Sergeant I)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 31 (2nd Lieutenant II)</td>
+        <td><b>Unlocks:</b><br>Second set of Vehicle Challenges</td>
+        <td>Rank 44 (Major III)</td>
+        <td><b>Unlocks:</b><br>Primary Grenade x2</td>
+        <td>Rank 57 (Major General)</td>
+        <td><b>Unlocks:</b><br>PTRS-41</td>
+      </tr>
+      <tr>
+        <td>Rank 6 (Private First Class II)</td>
+        <td><b>Unlocks:</b><br>Toss Back</td>
+        <td>Rank 19 (Gunnery Sergeant II)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 32 (2nd Lieutenant III)</td>.
+        <td><b>Unlocks:</b><br>Shades</td>
+        <td>Rank 45 (Lt. Colonel)</td>
+        <td><b>Unlocks:</b></td>
+        <td>Rank 58 (Major General I)</td>
+        <td><b>Unlocks:</b></td>
+      </tr>
+      <tr>
+        <td>Rank 7 (Corporal)</td>
+        <td><b>Unlocks:</b><br>Gewehr 43</td>
+        <td>Rank 20 (Gunnery Sergeant III)</td>
+        <td><b>Unlocks:</b><br>Martyrdom</td>
+        <td>Rank 33 (1st Lieutenant)</td>
+        <td><b>Unlocks:</b><br>MG-42</td>
+        <td>Rank 46 (Lt. Colonel I)</td>
+        <td><b>Unlocks:</b></td>
+        <td>Rank 59 (Major General II)</td>
+        <td><b>Unlocks:</b></td>
+      </tr>
+      <tr>
+        <td>Rank 8 (Corporal II)</td>
+        <td><b>No Unlocks:</b></td>
+        <td>Rank 21 (Master Sergeant)</td>
+        <td><b>Unlocks:</b><br>Mosin-Nagant<br>Tokarev TT-33</td>
+        <td>Rank 34 (1st Lieutenant I)</td>
+        <td><b>Unlocks:</b><br>Second Set of Operations Challenges</td>
+        <td>Rank 47 (Lt. Colonel II)</td>
+        <td><b>Unlocks:</b></td>
+        <td>Rank 60 (Major General III)</td>
+        <td><b>Unlocks:</b><br>Iron Lungs</td>
+      </tr>
+      <tr>
+        <td>Rank 9 (Corporal II)</td>
+        <td><b>Unlocks:</b><br>Second Chance</td>
+        <td>Rank 22 (Master Sergeant I)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 35 (1st Lieutenant II)</td>
+        <td><b>Unlocks:</b><br>Last Set of Vehicle Challenges</td>
+        <td>Rank 48 (Lt. Colonel III)</td>
+        <td><b>Unlocks:</b><br>Fireproof</td>
+        <td>Rank 61 (Lieutenant General)</td>
+        <td><b>Unlocks:</b><br>Browning M1919</td>
+      </tr>
+      <tr>
+        <td>Rank 10 (Sergeant)</td>
+        <td><b>Unlocks:</b><br>MP40<br>Molotov Cocktail</td>
+        <td>Rank 23 (Master Sergeant II)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 36 (1st Lieutenant III)</td>
+        <td><b>Unlocks:</b><br>Double Tap</td>
+        <td>Rank 49 (Colonel)</td>
+        <td><b>Unlocks:</b><br>.357 Magnum</td>
+        <td>Rank 62 (Lieutenant General I)</td>
+        <td><b>Unlocks:</b></td>
+      </tr>
+      <tr>
+        <td>Rank 11 (Sergeant I)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 24 (Master Sergeant III)</td>
+        <td><b>Unlocks:</b><br>Bouncing Betty x2</td>
+        <td>Rank 37 (Captain)</td>
+        <td><b>Unlocks:</b><br>StG-44</td>
+        <td>Rank 50 (Colonel I)</td>
+        <td><b>Unlocks:</b></td>
+        <td>Rank 63 (Lieutenant General II)</td>
+        <td><b>Unlocks:</b></td>
+      </tr>
+      <tr>
+        <td>Rank 12 (Sergeant II)</td>
+        <td><b>Unlocks:</b><br>Camouflage<br>Ordnance<br>Training</td>
+        <td>Rank 25 (Sergeant Major)</td>
+        <td><b>Unlocks:</b><br>Type 100</td>
+        <td>Rank 38 (Captain I)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 51 (Colonel II)</td>
+        <td><b>Unlocks:</b></td>
+        <td>Rank 64 (Lieutenant General III)</td>
+        <td><b>Unlocks:</b><br>Reconnaissance</td>
+      </tr>
+      <tr>
+        <td>Rank 13 (Staff Sergeant)</td>
+        <td><b>Unlocks:</b><br>DP-28</td>
+        <td>Rank 26 (Sergeant Major I)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 39 (Captain II)</td>
+        <td><b>No Unlocks</b></td>
+        <td>Rank 52 (Colonel III)</td>
+        <td><b>Unlocks:</b><br>Dead Silence</td>
+        <td>Rank 65 (Commander)</td>
+        <td><b>Unlocks:</b><br>M1A1 Carbine<br>M2 Flamethrower</td>
+      </tr>
+      </table>
+    </div>
+  </main>
+  <footer>
+    <hr>
+  <p>Call of Duty Index, Copyright &copy; 2018 </p>
+  </footer>
+</body>
+</html>
