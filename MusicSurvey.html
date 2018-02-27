@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="color.css">
+  <title>Music Survey</title>
+</head>
+<body>
+  <header>
+    <h1>Music Survey</h1>
+  </header>
+  <form action="http://www.markmurtha.com/csis128/readform.asp" method="get">
+  <label>First Name: <input type="text" id="fname" name="fname"></label><br><br>
+  <label>Last Name: <input type="text" id="lname" name="lname"></label><br><br>
+  <label>Email: <input type="text" id="email" name="email"></label><br><br><br><br><br><br>
+
+  <fieldset>
+    <legend><strong>Favorite Music</strong></legend>
+    Select your favorite types of music:<br>
+<label><input type="checkbox" value="yes" id="hiphop" name="hiphop">Hip Hop</label><br>
+<label><input type="checkbox" value="yes" id="country" name="country">Country</label><br>
+<label><input type="checkbox" value="yes" id="rock" name="rock">Rock and Roll</label><br>
+<label><input type="checkbox" value="yes" id="jazz" name="jazz">Jazz</label><br>
+<label><input type="checkbox" value="yes" id="rel" name="rel">Religious</label><br>
+</fieldset><br><br>
+  <fieldset>
+    <legend><strong>Choose one</strong></legend>
+Select how often you purchase music:<br>
+<label><input type="radio" value="less" id="less" name="music">At least once a month</label><br>
+<label><input type="radio" value="" id="" name="music">At least once every 6 months</label><br>
+<label><input type="radio" value="" id="" name="music">At least once a year</label><br>
+</fieldset><br><br>
+<p><strong>Location where you listen to music:</strong></p>
+<select size="3" name="location" id="location">
+
+  <option value="usa">United States</option>
+  <option value="uk">United Kingdom</option>
+  <option value="canada">Canada</option>
+  <option value="mex">Mexico</option>
+</select><br><br>
+<textarea name="comments" id="comments" rows="3" cols="60" placeholder="What role does music play in your life?">
+</textarea><br><br>
+<input type="submit"> <input type="reset">
+</form><br><br>
+<footer>
+  <hr>
+  Copyright &copy; Edward Barrier III 2018
+</footer>
+</body>
+</html>

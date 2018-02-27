@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="color.css">
+  <title>Chips</title>
+</head>
+<body>
+  <header>
+  <h1>Chips Survey</h1>
+</header>
+<main>
+  <form>
+    <fieldset>
+      <legend>Information</legend>
+      <label>First Name: <input type="text" id="fname" name="fname" required="required" tabindex="1"></label><br><br>
+      <label>Last Name: <input type="text" id="lname" name="lname" required="required" tabindex="2"></label><br><br>
+      <label>Email: <input type="text" id="email" name="email" required"required" tabindex="3"></label><br><br>
+      <select size="1" id="favchip" name="favchip">
+        <option tabindex="4">Select your favorite chip</option>
+        <option value="Takis">Takis</option>
+        <option value="Hot Cheetos">Hot Cheetos</option>
+        <option value="Doritos">Doritos</option>
+        <option value="Other">Other</option>
+      </select>
+    </fieldset><br><br>
+    <input type="Submit" value="Submit Answer!" tabindex="5">
+    <input type="reset" tabindex="6">
+  </form>
+</main>
+
+</body>
+</html>

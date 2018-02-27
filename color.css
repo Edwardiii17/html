@@ -1,0 +1,58 @@
+fieldset {
+  padding: 10px;
+  border: 3px solid #6699ff;
+  width: 300px;
+}
+
+h1 {
+  font-size: 45px;
+  text-align: center;
+  background-color: #6699ff;
+  font-family: "Times New Roman", Georgia, sans-serif;
+}
+
+label {
+  font-family: "Times New Roman", Georgia, sans-serif;
+  width: 100px;
+  clear: left;
+  text-align: right;
+  padding-right: 10px;
+  margin-top: 10px;
+  float: left;
+}
+
+#fname {
+  border-color: #6699ff;
+}
+
+#lname {
+  border-color: #6699ff;
+}
+
+#email {
+  border-color: #6699ff;
+}
+
+#location {
+  border-color: #6699ff;
+}
+
+#comments {
+  border-color: #6699ff;
+}
+
+#hiphop {
+  margin: 10px;
+}
+
+#country {
+  margin: 10px;
+}
+
+#rock {
+  margin: 10px;
+}
+
+#jazz {
+  margin: 10px;
+}
